@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vWydJOtkhv6LRpwO/pt0d5z70O2NunKb1ixbR2L0ynlVzdWImpRu/gn1F6MksTVZlHINM1ko5cEthK3ZTBTMBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\himan\\Downloads\\SMS Project\\SMS1.0\\SMS1.0\\SMS1.0TransactionServices\\SMS1.0TransactionServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\himan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\himan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\himan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\himan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\himan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\himan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

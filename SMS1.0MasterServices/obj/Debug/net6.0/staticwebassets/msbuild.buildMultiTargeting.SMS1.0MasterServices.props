@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SMS1.0MasterServices.props" />
+</Project>
