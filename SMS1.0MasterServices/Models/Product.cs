@@ -9,7 +9,7 @@ namespace SMS1._0MasterServices.Models
         [Required]
         public string ProductName { get; set; }
         [Required]
-        public int CategoryId { get; set; }
+        public int CategoryId  { get; set; }
         public string? Description { get; set; }
         
     }
